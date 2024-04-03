@@ -1,4 +1,4 @@
-![Energy](https://github.com/sourceduty/Energy/assets/123030236/68944555-7e16-4cf6-9f12-cb0a26051e5c)
+![Energy](https://github.com/sourceduty/Energy/assets/123030236/d54a7a60-97f4-4700-ac68-b9ce72024bde)
 
 Energy generation is a fundamental aspect of modern civilization, powering industries, homes, and transportation. Understanding the laws governing energy and the methods for its creation is crucial for sustainable development and technological advancement. This report explores the laws of energy and electricity generation, the creation of energy, methods for energy generation, the conservation of energy, and the potential of compact portable nuclear fusion.
 
