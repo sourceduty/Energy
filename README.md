@@ -189,7 +189,7 @@ Compact portable nuclear fusion represents a promising avenue for clean and abun
 [Thermal Science](https://chat.openai.com/g/g-JhRbCZ4k0-thermal-science)
 <br>
 [Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
-<br
+<br>
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 
 ***
