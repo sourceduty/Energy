@@ -1,3 +1,4 @@
+![Electrical](https://github.com/user-attachments/assets/794fa67d-09d8-47ea-8996-97a59d2d62eb)
 ![Energy](https://github.com/user-attachments/assets/78e09f74-3485-497f-b4c3-b198d5817b49)
 
 > Energy research and technology.
