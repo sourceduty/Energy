@@ -173,6 +173,8 @@ The concepts of aquafriction energy and its potential applications are still lar
 [Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
 <br>
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Aquafriction](https://github.com/sourceduty/Aquafriction)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
